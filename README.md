@@ -9,7 +9,7 @@ Time required on this project should not take you more than 5 hours in total. <b
 Questions can be asked via GitHub issues. We'd prefer your implementation to use a JVM based or an OOP language. <br />
 Associated documentation, design artifacts, and implementations should be submitted back and viewable as a GitHub Pull Request.
 
-Part 1: Data Model
+Part 1: Data Model <br />
 Sketch out reasonable data models for a medical system that covers the following specifications.
 
 Specifications: <br />
@@ -34,7 +34,7 @@ Current BMI calculated from the medical history.<br />
 Min, mean, median, and max for blood pressure and heart rate within the last 12 months. <br />
 List of visits within the last 12 months. <br />
 
-How you will be evaluated
+How you will be evaluated <br />
 Your system design and data model writeup should be clear, reasonable, discuss trade offs, and not overengineered. <br />
 Your submission should include a README that outlines how to run your project and execute tests. <br />
 Your code should be clean, readable, and idiomatic. <br />
