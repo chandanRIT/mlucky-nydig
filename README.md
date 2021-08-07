@@ -1,4 +1,5 @@
-Project Overview
+Project Overview:
+
 This 3-part project is designed to evaluate your written and coding abilities. In part 1, we'd like you to provide the data model of a basic medical system based on a series of specifications. In part 2, we'd like you to sketch out a high level design and discuss trade-offs. In part 3, we'd like you to provide an implementation of a single specification.
 
 Time required on this project should not take you more than 5 hours in total. Questions can be asked via GitHub issues. We'd prefer your implementation to use a JVM based or an OOP language. Associated documentation, design artifacts, and implementations should be submitted back and viewable as a GitHub Pull Request.
