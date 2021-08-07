@@ -23,7 +23,7 @@ Part 3: Implementation
 Using the specifications and data model above, implement a class that generates a health summary given a patient ID and date. Feel free to have mocked database access that returns hardcoded data, but do not hardcode in the actual service class. Write tests for your service. This can be a mix of unit and functional tests that cover corner cases where applicable. You do NOT have to spin up a full web service or database. We're looking for a well tested class (with potentially small utility classes) that is complete with some tests.
 
 Things to include in the summary:
-Basic patient information such as name, birthday, gender, height, and weight.
+Basic patient information such as name, birthday, gender, height, and weight. <br />
 Current BMI calculated from the medical history.
 Min, mean, median, and max for blood pressure and heart rate within the last 12 months.
 List of visits within the last 12 months.
